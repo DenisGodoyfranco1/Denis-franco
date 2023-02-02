@@ -1,4 +1,4 @@
- #OII!! Eu sou o Denis Franco estou apredendo ser full-stack
+ #Ola!! Eu sou o Denis Franco estou apredendo ser full-stack
  
  -📖Estou estudando python nesse momento:
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
